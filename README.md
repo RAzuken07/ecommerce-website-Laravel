@@ -135,6 +135,29 @@ Struktur proyek ini terbagi menjadi beberapa bagian utama:
 - `public/` : file publik yang dapat diakses langsung, termasuk aset yang di-compile.
 - `config/` : konfigurasi aplikasi seperti database, auth, session, dan lainnya.
 
-## Catatan
+## UI/UX
+### Home/main
+![alt text](image.png)
 
-Untuk pengembangan lebih lanjut, proyek ini masih bisa dikembangkan dengan fitur seperti pembayaran otomatis, integrasi pengiriman, review produk, dan notifikasi melalui email atau WhatsApp.
+## Admin
+### Dashboard
+![alt text](resources/img/Admin/Dashboard%20Admin.png)
+### Produk List
+![alt text](resources/img/Admin/List%20Produk%20Admin.png)
+### Produk Add
+![alt text](resources/img/Admin/Add%20produk.png)
+### Order
+![alt text](resources/img/Admin/Daftar%20orders.png)
+### Kategori
+![alt text](resources/img/Admin/Daftar%20Kategori.png)
+### Pengguna
+![alt text](resources/img/Admin/List%20User.png)
+
+## Staff
+### Dashboard
+![alt text](resources/img/Staff/Dashboard.png)
+### Orders
+![alt text](resources/img/Staff/Orders.png)
+### Stock produk
+![alt text](resources/img/Staff/Stok%20produk.png)
+## Custommers
