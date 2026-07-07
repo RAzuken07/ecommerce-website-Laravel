@@ -137,7 +137,7 @@ Struktur proyek ini terbagi menjadi beberapa bagian utama:
 
 ## UI/UX
 ### Home/main
-![alt text](image.png)
+![alt text](resources/img/Home.png)
 
 ## Admin
 ### Dashboard
